@@ -3,4 +3,4 @@ services :
   web :
     image : shweta1097/my-notes-app:latest
     ports :
-      - "8000:8000"
+        - "8000:8000"
