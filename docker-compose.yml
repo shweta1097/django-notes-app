@@ -1,5 +1,4 @@
 version: "3.8"
-
 services :
   web :
     image : shweta1097/my-notes-app:latest
